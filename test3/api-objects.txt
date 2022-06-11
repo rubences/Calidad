@@ -1,0 +1,7 @@
+module_test	module_test-module.html
+module_test.potencia	module_test-module.html#potencia
+module_test.cubo	module_test-module.html#cubo
+module_test.cuadrado	module_test-module.html#cuadrado
+module_test.__package__	module_test-module.html#__package__
+module_test.Wrapper	module_test.Wrapper-class.html
+module_test.Wrapper.potencia	module_test.Wrapper-class.html#potencia
